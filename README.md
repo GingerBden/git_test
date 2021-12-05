@@ -2,3 +2,4 @@
 
 Odin Project - learning git
 Hello Odin!
+# amazing
